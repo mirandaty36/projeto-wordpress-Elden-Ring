@@ -25,3 +25,6 @@ Classes do jogo
 
 1-Copiar a pasta wordpress para 'wamp64/www
 2-Importar'base de dados.sql' no PhpmyAdmin
+
+
+**link do oneDrive**-https://aehn-my.sharepoint.com/:f:/g/personal/a42801_aehn_net/EuxXWSw3FnxPg9yuxn2ypr4B5sLZ13DSzrimEJVZbXDDkw?e=jUt6De
